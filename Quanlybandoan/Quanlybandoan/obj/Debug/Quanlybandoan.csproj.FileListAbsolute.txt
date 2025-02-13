@@ -1,0 +1,39 @@
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.exe.config
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.exe
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.pdb
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.Properties.Resources.resources
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.exe
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.pdb
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmDangnhap.resources
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmTaskManager.resources
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmProfile.resources
+\\Mac\Home\Documents\Quản lý bán đồ ăn nhanh\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmAmin.resources
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.exe.config
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.exe
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.pdb
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmAmin.resources
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmDangnhap.resources
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmProfile.resources
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmTaskManager.resources
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.Properties.Resources.resources
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.exe
+\\Mac\Home\Documents\Quanlybandoan\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.pdb
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.exe.config
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.exe
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\bin\Debug\Quanlybandoan.pdb
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmAmin.resources
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmDangnhap.resources
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmProfile.resources
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.frmTaskManager.resources
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.Properties.Resources.resources
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.exe
+\\Mac\Home\Documents\Nhom1_DH22TIN02\Quanlybandoan\Quanlybandoan\obj\Debug\Quanlybandoan.pdb
