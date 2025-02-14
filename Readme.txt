@@ -43,7 +43,7 @@ Các bước setup trước khi sử dụng
 ***Lưu ý kiểm tra trạng thái của kết nối máy chủ CSDL tại cửa sổ "Server Explorer" nếu thấy "dấu x" thì Refresh lại trên góc.
 
 Để đăng nhập vào hệ thống:
-Tài khoản Quản trị viên là: Tanh
+Tài khoản Quản trị viên là: Quanly1
 Password: 123
 * Trong giao diện chính, chọn vào tên hiện thị để đăng xuất
 Em cảm ơn !
