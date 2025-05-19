@@ -8,7 +8,7 @@ import imageio  # để lưu GIF
 
 VIDEO_FOLDER = "video_inputs"
 MODEL_PATH = "action_recognition_model.h5"
-sequence_length = 40
+sequence_length = 30
 
 actions = np.array([
     "brush_hair", "cartwheel", "catch", "chew", "clap", "climb",
