@@ -5,7 +5,7 @@ def create_model(actions):
     model = Sequential()
     
     # 3 lớp LSTM với dropout
-    model.add(LSTM(128, return_sequences=True, activation='relu', input_shape=(40, 1662)))
+    model.add(LSTM(128, return_sequences=True, activation='relu', input_shape=(30, 1662)))
     model.add(Dropout(0.2))
     model.add(LSTM(256, return_sequences=True, activation='relu'))
     model.add(Dropout(0.2))
