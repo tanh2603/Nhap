@@ -9,7 +9,7 @@ from model import create_model
 # Cấu hình
 DATA_PATH = "DATA_TEST"
 SEQUENCE_LENGTH = 30
-LAST_CHECKPOINT = "last_checkpoint.h5"
+LAST_CHECKPOINT = "last_checkpoint.keras"  # ✅ đổi sang .keras
 
 # Lấy danh sách hành động từ thư mục train
 actions = sorted(os.listdir(os.path.join(DATA_PATH, "train")))
@@ -59,7 +59,7 @@ model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=
 
 # Callback lưu mô hình mỗi 10 epoch
 class SaveEveryNEpochs(Callback):
-    def __init__(self, every=10, save_path_template="action_recognition_model_epoch_{epoch}.h5"):
+    def __init__(self, every=10, save_path_template="action_recognition_model_epoch_{epoch}.keras"):
         super().__init__()
         self.every = every
         self.save_path_template = save_path_template
